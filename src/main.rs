@@ -26,4 +26,7 @@ fn main() {
         println!("{}", x);
     }
     println!("{}" , x)
+
+    // day 5 Chapter 3 3.2 Datatypes :(
+
 }
